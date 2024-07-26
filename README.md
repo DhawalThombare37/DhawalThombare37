@@ -1,5 +1,4 @@
 # Dhawal Thombare
-**#BTech ENTC VIIT 2027**
 👋 Hi, I’m @DhawalThombare37
 
 ## About Me
