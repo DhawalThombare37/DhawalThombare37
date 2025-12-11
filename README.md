@@ -184,7 +184,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
 
 <div align="center">
 
@@ -204,10 +204,12 @@
 </a>
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 ### 💙 Thanks for visiting! Let's build something amazing together! 💙
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**⭐ From [DhawalThombare37](https://github.com/DhawalThombare37) with ❤️**
+** ⭐ From [DhawalThombare37](https://github.com/DhawalThombare37) with ❤️ **
 
 </div>
