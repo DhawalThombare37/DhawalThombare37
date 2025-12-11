@@ -8,8 +8,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DhawalThombare37&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhawalThombare37&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=DhawalThombare37&theme=radical&no-bg=true&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies
+![Trophy](https://github-trophies.vercel.app/?username=dhawalthombare37&row=1&theme=matrix&margin-w=15)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
@@ -20,10 +20,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DhawalThombare37&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-DhawalThombare37/DhawalThombare37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
